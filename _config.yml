@@ -1,0 +1,28 @@
+name: FiGWiG
+favicon: null
+layout_spectrum: 0.33339937264099717
+typography_spectrum: 0.2399938094895333
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.43451174767687917
+  lightness: 0.8549386020749807
+  saturation: 0.3427809907589108
+  rhythmicContrast: 0.7373990344349295
+purpose: []
