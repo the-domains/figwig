@@ -1,7 +1,7 @@
 name: FiGWiG
 favicon: null
-layout_spectrum: 0.33339937264099717
-typography_spectrum: 0.2399938094895333
+layout_spectrum: 0.19955
+typography_spectrum: 0.04407
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.43451174767687917
-  lightness: 0.8549386020749807
-  saturation: 0.3427809907589108
+  lightness: 0.75
+  saturation: 0.375
   rhythmicContrast: 0.7373990344349295
 purpose: []
